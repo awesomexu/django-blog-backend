@@ -1,0 +1,22 @@
+# venv
+venv/
+
+# pycharm
+.idea/
+.DS_Store
+
+__pycache__/
+*.py[cmod]
+*$py.class
+
+# Django
+local_settings.py
+*.sqlite3
+*.sqlite
+*.db
+media/
+
+# database migrations
+
+*/migrations/*.py
+!*/migrations/__init__.py
