@@ -1,4 +1,4 @@
-## 基于django的博客后端系统
+## 基于django的简易博客后端api
 
 ### API接口：
 | url            | method | example                                       |
